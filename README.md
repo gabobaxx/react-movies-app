@@ -1,4 +1,4 @@
-# Movie App with React
+# Movie App with React :rocket:
 
 ## Screenshot :computer:
 ![principal](docs/principal.png)
