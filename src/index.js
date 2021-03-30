@@ -1,11 +1,11 @@
-import React from "react";
-import ReactDOM from "react-dom";
+import React from 'react';
+import ReactDOM from 'react-dom';
 
-import List from "./containers/List";
-import Navbar from "./components/Navbar";
+import List from './containers/List';
+import Navbar from './components/Navbar';
 
-import "bootswatch/dist/lux/bootstrap.min.css";
-import "./index.css";
+import 'bootswatch/dist/lux/bootstrap.min.css';
+import './index.css';
 
 const App = () => {
   return (
@@ -21,4 +21,4 @@ const App = () => {
   );
 };
 
-ReactDOM.render(<App />, document.getElementById("root"));
+ReactDOM.render(<App />, document.getElementById('root'));
