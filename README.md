@@ -1,7 +1,7 @@
 # Movie App with React
 
 ## Screenshot :computer:
-![principal](./screenshot.png)
+![principal](docs/principal.png)
 
 ## Requeriments
 As a requeriment for this example, you need to get your API Key in this website using your email
